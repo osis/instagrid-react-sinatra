@@ -20,3 +20,4 @@ Close to the bottom of index.html you'll see this line...
 	<InstaGrid userID="instagram" />
 	
 Change the userID value to any instagram user and it will pull their 20 latest photos.
+Instragrid uses the public APIs so **no API tokens are needed**.
