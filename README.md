@@ -4,7 +4,7 @@
 
 ## Running Locally
 
-Server uses rack so it's as easy as...
+Server uses rack, so it's as easy as...
 
 	bundle install
 	rackup
