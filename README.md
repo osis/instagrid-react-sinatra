@@ -2,7 +2,7 @@
 
 ![Instagrid](https://cloud.githubusercontent.com/assets/347097/18030382/f9ef951e-6c81-11e6-8e15-087b3308a8f7.png)
 
-[**Demo**](http://www.dwayne.io)
+[**Demo**](http://instagrid.dwayne.io)
 
 ## Running Locally
 
